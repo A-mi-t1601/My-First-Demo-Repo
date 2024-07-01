@@ -1,0 +1,2 @@
+This is my first git demo repo.
+I was creating this repo just for learning github.
